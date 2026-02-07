@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-UK"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "contrast" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "YINXUE LIU"
 title_separator          : "-"
 name                     : &name "Yinxue Liu"
@@ -24,9 +24,10 @@ repository               : "https://github.com/YinxueLiu"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Yinxue Liu"
+  pronunciation    : "Yin-shway Lee-oh"
   pronouns         : "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Vice-Chancellor Independent Research Fellow"
   location         : "UK"
   employer         : "Loughborough University"
   uri              : # URL
@@ -57,7 +58,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  # bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
