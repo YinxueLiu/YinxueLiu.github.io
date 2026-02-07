@@ -1,67 +1,67 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Dr Yinxue Liu",
+    "email": "yinxue.liu@ouce.ox.ac.uk",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://YinxueLiu.github.io",
+    "summary": "Currently employed at Loughborough University.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "Oxford",
+      "countryCode": "UK",
       "region": ""
     },
     "profiles": [
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "https://scholar.google.com/citations?user=nxayhfQAAAAJ&hl=en"
       },
       {
         "network": "ORCID",
         "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "url": "https://orcid.org/0000-0002-5250-0184"
       },
       {
         "network": "GitHub",
         "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "url": "https://github.com/YinxueLiu"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "University of Bristol, UK",
+      "area": "PhD in Physical Geography",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "2022",
+      "gpa": null,
+      "courses": []
+    },
+    {
+      "institution": "Capital Normal University, China",
+      "area": "MSc in GIS",
       "studyType": "",
       "startDate": "",
       "endDate": "2018",
-      "gpa": null,
+      "gpa": Top 5%,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "Anhui University, China",
+      "area": "BSc in GIS",
       "studyType": "",
       "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
+      "endDate": "2015",
+      "gpa": Top 5%,
       "courses": []
     }
   ],
   "skills": [],
-  "languages": [],
+  "languages": [Mandarin, English],
   "interests": [],
   "references": [],
   "publications": [
@@ -140,13 +140,4 @@
       "description": ""
     }
   ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-    }
-  ]
-}
+
