@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 1"
+title: "Recent teaching"
 collection: teaching
 type: "PhD candidates"
 venue: "University of Oxford, Intelligent Earth Doctoral Training Centre"
