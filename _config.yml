@@ -11,8 +11,8 @@ locale                   : "en-UK"
 site_theme               : "contrast" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "YINXUE LIU"
 title_separator          : "-"
-name                     : &name "Yinxue Liu"
-description              : &description "Yinxue's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+name                     : "Yinxue Liu"
+description              : "Yinxue's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://YinxueLiu.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -58,7 +58,6 @@ author:
 
   # Social media
   artstation       : # Username
-  # bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -228,9 +227,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
+  # portfolio:
+  #   output: true
+  #   permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
