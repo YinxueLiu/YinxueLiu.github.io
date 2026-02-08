@@ -1,0 +1,84 @@
+{%- comment -%}
+  Publication entry include.
+  Expects to be used inside a loop over site.publications (reversed for newest-first).
+  Uses:
+   - post (the publication)
+   - forloop.index (numbers newest->oldest when used with reversed loop)
+{%- endcomment -%}
+
+{%- assign post = include.post | default: page %} {%- comment -%} ensure 'post' variable exists if include passed one {%- endcomment -%}
+
+{%- capture cite_num -%}[{{ forloop.index }}]{%- endcapture -%}
+
+<div class="publication-entry" id="pub-{{ forloop.index }}">
+  <span class="cite-number">{{ cite_num }}</span>
+
+  {%- comment -%} Authors logic: use authors array if present; otherwise try citation or author field {%- endcomment -%}
+  <span class="pub-authors">
+  {%- if post.authors -%}
+    {%- for author in post.authors -%}
+      {%- assign author_text = author | strip -%}
+      {%- assign match_name = site.author.bib_name | default: "Liu, Y." -%}
+      {%- if author_text | downcase contains match_name | downcase -%}
+        <strong>{{ author_text }}</strong>
+      {%- else -%}
+        {{ author_text }}
+      {%- endif -%}
+      {%- unless forloop.last -%}, {%- endunless -%}
+    {%- endfor -%}
+  {%- elsif post.citation -%}
+    {%- assign citation = post.citation | strip -%}
+    {%- comment -%} try to bold your name inside citation string (case-insensitive) {%- endcomment -%}
+    {%- assign lname = site.author.bib_name | default: "Liu, Y." -%}
+    {%- assign lcitation = citation | downcase -%}
+    {%- assign lmatch = lname | downcase -%}
+    {%- if lcitation contains lmatch -%}
+      {%- assign parts = citation | replace_first: lmatch, "__MATCH__" -%}
+      {%- assign parts = parts | split: "__MATCH__" -%}
+      {{ parts[0] | strip }}<strong>{{ lname }}</strong>{{ parts[1] | strip }}
+    {%- else -%}
+      {{ citation }}
+    {%- endif -%}
+  {%- elsif post.author -%}
+    {%- assign author_text = post.author | strip -%}
+    {%- if author_text | downcase contains (site.author.bib_name | default: "Liu, Y.") | downcase -%}
+      <strong>{{ author_text }}</strong>
+    {%- else -%}
+      {{ author_text }}
+    {%- endif -%}
+  {%- endif -%}
+  </span>.
+  <br />
+
+  {%- comment -%} Title (link if paperurl present) {%- endcomment -%}
+  <span class="pub-title">
+    {%- if post.paperurl -%}
+      <a href="{{ post.paperurl }}" target="_blank" rel="noopener noreferrer">{{ post.title }}</a>
+    {%- else -%}
+      {{ post.title }}
+    {%- endif -%}
+  </span>.
+  <br />
+
+  {%- comment -%} Venue & year {%- endcomment -%}
+  <span class="pub-venue">
+    {%- if post.venue -%}
+      <em>{{ post.venue }}</em>
+    {%- endif -%}
+    {%- if post.date -%}
+      , {{ post.date | date: "%Y" }}
+    {%- endif -%}
+    {%- if post.volume or post.issue or post.pages -%}
+      {%- if post.volume -%} , {{ post.volume }}{%- endif -%}
+      {%- if post.issue -%}({{ post.issue }}){%- endif -%}
+      {%- if post.pages -%} , {{ post.pages }}{%- endif -%}
+    {%- endif -%}
+  </span>.
+
+  {%- comment -%} DOI or link {%- endcomment -%}
+  {%- if post.doi -%}
+    <span class="pub-doi"><a href="{{ post.doi }}" target="_blank" rel="noopener noreferrer">doi</a></span>
+  {%- elsif post.paperurl -%}
+    <span class="pub-link"><a href="{{ post.paperurl }}" target="_blank" rel="noopener noreferrer">link</a></span>
+  {%- endif -%}
+</div>
