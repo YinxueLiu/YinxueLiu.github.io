@@ -30,7 +30,23 @@
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "institution": "Loughborough University, UK",
+      "role": "Vice-Chancellor Independent Research Fellow",
+      "start": "2025",
+    },
+    {
+      "institution": "Loughborough University, UK",
+      "role": "Research Associate in Flood Risk",
+      "start": "2024",
+    },
+    {
+      "institution": "University of Oxford, UK",
+      "role": "Research Associate in Computational Hygrogeomorphology",
+      "start": "2022",
+    },
+  ],
   "education": [
     {
       "institution": "University of Bristol, UK",
