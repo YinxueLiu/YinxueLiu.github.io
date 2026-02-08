@@ -38,16 +38,16 @@
       "studyType": "",
       "startDate": "",
       "endDate": "2022",
-      "gpa": null,
+      "gpa": "",
       "courses": []
     },
     {
       "institution": "Capital Normal University, China",
       "area": "MSc in GIS",
-      "studyType": "",
+      "studyType": "Research",
       "startDate": "",
       "endDate": "2018",
-      "gpa": Top 5%,
+      "gpa": "Top 5%",
       "courses": []
     },
     {
@@ -56,7 +56,7 @@
       "studyType": "",
       "startDate": "",
       "endDate": "2015",
-      "gpa": Top 5%,
+      "gpa": "Top 5%",
       "courses": []
     }
   ],
