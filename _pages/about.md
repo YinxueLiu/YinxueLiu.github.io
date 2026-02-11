@@ -1,56 +1,50 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Hey, Welcome to my personal website!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+I am a computational hydrogeomorphologist and Vice-Chancellor Independent Research Fellow at Loughborough University, UK, and an Associate Member of the School of Geography and the Environment at the University of Oxford, UK. My research focuses on advancing process understanding of flood generation and improving quantitative estimates of flood extremes using big data and artificial intelligence.
+I hold a PhD in Physical Geography from the University of Bristol, UK. Prior to my current role, I was a Research Associate on the NERC large grant EvoFlood project based at the University of Oxford (2022-2024) and then Loughborough University (2025), which investigated the evolution of global flood hazards and risks.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
-
-A data-driven personal website
+Research Interests
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+•	Global flood risk and river dynamics
+•	Hydroinformatics and machine learning
+•	Sediment transport and river geomorphology
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
-
-Getting started
+News
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](https://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+•	2026/02, Our paper “Global Hydroclimatic Controls on Multithread River Dynamics” is accepted at AGU Advances.  
+•	2026/01, I am honoured to be selected as the 2026 [Judith McKenzie Fellow](https://eaps.ethz.ch/en/news/archive/2026/01/congratulations-to-the-judith-mckenzie-fellows.html). 
 
-Site-wide configuration
+Publications
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+•	Liu, Y., Bates, P. D., Neal, J. C., et al. (2025). A Bare-earth GoogleDEM to Simulate Flooding in New Delhi, India. Water Res. Res., 61(6), e2024WR038577. https://doi.org/10.1029/2024WR038577
+•	Wortmann M., Slater L., Hawker L., Liu Y., et al. (2025). Global River Topology (GRIT): A bifurcating river hydrography. Water Res. Res., 61(5), e2024WR038308. https://doi.org/10.1029/2024WR038308
+•	Guan Y., Gu X., …, Liu Y. et al. (2025). Excess water availability in northern mid-high latitudes contiguously migrated from ocean under climate change. Sci. Adv., 11(33), eadv0282. https://doi.org/10.1126/sciadv.adv0282
+•	Slater, L., …, Liu, Y., et al. (2025). Challenges and opportunities of ML and explainable AI in large-sample hydrology. Philos. Trans. R. Soc. A Math. Phys. Eng. Sci.. https://doi.org/10.1098/rsta.2024.0287
+•	Gebrechorkos, S. H., Leyland, J., …, Liu Y., & Darby, S. E. (2024). Global-scale evaluation of precipitation datasets for hydrological modelling. Hydrol. Earth Syst. Sci., 28(14), 3099-3118. https://doi.org/10.5194/hess-28-3099-2024
+•	Liu, Y., Bates, P. D., Neal, J. C. (2022). Bare-earth DEM Generation from ArcticDEM, and Its Use in Flood Simulation. Nat. Hazards Earth Syst. Sci., 23(1), 375-391, https://doi.org/10.5194/nhess-23-375-2023
+•	Liu, Y., Bates, P. D., Neal, J. C., & Yamazaki, D. (2021)*. Bare‐Earth DEM Generation in Urban Areas for Flood Inundation Simulation Using Global Digital Elevation Models. Water Res. Res., 57(4). https://doi.org/10.1029/2020WR028516 
+•	Zhou, D., Liu, Y., et al. (2019). Assessing the hydrological behaviour of large-scale potential green roof retrofitting scenarios in Beijing. Urban For. Urban Green., 40, 105-113. https://doi.org/10.1016/j.ufug.2017.12.010
+•	Xu, T., Weng, B., Yan, D., ... & Liu, Y. (2019). Wetlands of international importance: Status, threats, and future protection. Int. J. Environ. Res. Public Health, 16(10), 1818. https://doi.org/10.3390/ijerph16101818
 
-Create content & metadata
+
+Talks
 ------
-For site content, there is one Markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a Markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each Markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+•	Hydro-JULES Land and water in a changing climate, Royal Society, London, UK, 2025. Improving the understanding of global river floods using machine learning.
+•	AGU Fall Meeting 2024, Washington DC, USA. Global Estimation of River Bankfull Discharge Reveals Distinct Flood Recurrences Across Climate Zones.
+•	Smart Informatics and Multi-hazard Reduction 2024, Loughborough, UK. A Bare-earth GoogleDEM to Simulate Flood Inundation in New Delhi, India.
+•	EGU General Assembly 2024, Vienna, Austria. First Global Estimation of River Bankfull Discharge.
 
-**Markdown generator**
-
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual Markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the Markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
+Teaching
 ------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and Markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+Natural Hazards: Floods - Intelligent Earth PhD Candidates, University of Oxford
 
-Example: editing a Markdown file for a talk
-![Editing a Markdown file for a talk](/images/editing-talk.png)
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+
+
