@@ -9,10 +9,8 @@ redirect_from:
 
 I am a computational hydrogeomorphologist and Vice-Chancellor Independent Research Fellow at Loughborough University, UK, and an Associate Member of the School of Geography and the Environment at the University of Oxford, UK. 
 
-My research focuses on advancing process understanding of flood generation and improving quantitative estimates of flood extremes using big data and artificial intelligence.
-I hold a PhD in Physical Geography from the University of Bristol, UK. 
-
-Prior to my current role, I was a Research Associate on the NERC large grant EvoFlood project based at the University of Oxford (2022-2024) and then Loughborough University (2025), which investigated the evolution of global flood hazards and risks.
+My research focuses on advancing process understanding of flood generation and improving quantitative estimates of flood extremes using big data and artificial intelligence.  
+I hold a PhD in Physical Geography from the University of Bristol, UK. Prior to my current role, I was a Research Associate on the NERC large grant EvoFlood project based at the University of Oxford (2022-2024) and then Loughborough University (2025), which investigated the evolution of global flood hazards and risks.
 
 Research Interests
 ======
@@ -30,7 +28,7 @@ News
 
 Publications
 ------
-•	**Liu, Y.**, Bates, P. D., Neal, J. C., et al. (2025). A Bare-earth GoogleDEM to Simulate Flooding in New Delhi, India. _Water Res. Res._, 61(6), e2024WR038577. https://doi.org/10.1029/2024WR038577
+•	**Liu, Y.**, Bates, P. D., Neal, J. C., et al. (2025). A Bare-earth GoogleDEM to Simulate Flooding in New Delhi, India. _Water Res. Res._, 61(6), e2024WR038577. https://doi.org/10.1029/2024WR038577 <br>
 •	Wortmann M., Slater L., Hawker L., **Liu Y.**, et al. (2025). Global River Topology (GRIT): A bifurcating river hydrography. _Water Res. Res._, 61(5), e2024WR038308. https://doi.org/10.1029/2024WR038308
 •	Guan Y., Gu X., …, **Liu Y.** et al. (2025). Excess water availability in northern mid-high latitudes contiguously migrated from ocean under climate change. _Sci. Adv._, 11(33), eadv0282. https://doi.org/10.1126/sciadv.adv0282
 •	Slater, L., …, **Liu, Y.**, et al. (2025). Challenges and opportunities of ML and explainable AI in large-sample hydrology. _Philos. Trans. R. Soc. A Math. Phys. Eng. Sci._. https://doi.org/10.1098/rsta.2024.0287
