@@ -40,25 +40,25 @@ Publications
 
 Talks
 ======
-##### Hydro-JULES: Land and Water in a Changing Climate  
+### Hydro-JULES: Land and Water in a Changing Climate  
 Royal Society, London, UK · 2025 <br> 
 Improving the understanding of global river floods using machine learning.
 
 ---
 
-##### AGU Fall Meeting  
+### AGU24  
 Washington DC, USA · 2024 <br>
 Global Estimation of River Bankfull Discharge Reveals Distinct Flood Recurrences Across Climate Zones.
 
 ---
 
-### Smart Informatics and Multi-hazard Reduction  
+### Smart Informatics and Multi-hazard Reduction (SIMR)
 Loughborough, UK · 2024 <br>
 A Bare-earth GoogleDEM to Simulate Flood Inundation in New Delhi, India.
 
 ---
 
-### EGU General Assembly  
+### EGU24
 Vienna, Austria · 2024 <br>
 First Global Estimation of River Bankfull Discharge.
 
