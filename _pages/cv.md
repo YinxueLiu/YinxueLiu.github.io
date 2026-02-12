@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* PhD in Physical Geography, University of Bristol, 2023
-* MSc in GIS, GitHub University, 2018
-* BSc in GIS, GitHub University, 2015
+* PhD in Physical Geography, University of Bristol, UK, 2023
+* MSc in GIS, Capital Normal University, China, 2018
+* BSc in GIS, Anhui University, China, 2015
   
 <!--
 Work experience
