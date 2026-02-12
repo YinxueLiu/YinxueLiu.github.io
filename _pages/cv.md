@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -14,6 +14,7 @@ Education
 * PhD in Physical Geography, University of Bristol, 2023
 * MSc in GIS, GitHub University, 2018
 * BSc in GIS, GitHub University, 2015
+  
 <!--
 Work experience
 ======
