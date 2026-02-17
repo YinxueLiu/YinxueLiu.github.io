@@ -22,7 +22,7 @@ Research Interests
 
 News
 ======
-- 2026/02, Our paper “Global Hydroclimatic Controls on Multithread River Dynamics” is accepted at _AGU Advances_.
+- 2026/02, A colloboration paper with Scientists from University of California Santa Barbara “Global Hydroclimatic Controls on Multithread River Dynamics” is accepted at _AGU Advances_.
 - 2026/01, I am honoured to be selected as the 2026 [Judith McKenzie Fellow by ETH, Zurich](https://eaps.ethz.ch/en/news/archive/2026/01/congratulations-to-the-judith-mckenzie-fellows.html). 
 
 Publications
