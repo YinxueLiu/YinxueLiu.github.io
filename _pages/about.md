@@ -13,7 +13,7 @@ I am a computational hydrogeomorphologist. My research focuses on advancing proc
 
 I am currently a Vice-Chancellor Independent Research Fellow at _Loughborough University_, _UK_, and an Associate Member of the _School of Geography and the Environment_, _University of Oxford_. 
 
-I hold a PhD in Physical Geography from the _University of Bristol_. Prior to my current role, I was a Research Associate on the NERC large grant [EvoFlood project](https://www.evoflood.co.uk/) based at the _University of Oxford_ (2022-2024) and _Loughborough University_ (2025-), which investigated the evolution of global flood hazards and risks.
+I hold a PhD in Physical Geography from the _University of Bristol_. Prior to my current role, I was a Research Associate on the NERC large grant [EvoFlood project](https://www.evoflood.co.uk/) based at the _University of Oxford_ (2022-2024) and _Loughborough University_ (2025), which investigated the evolution of global flood hazards and risks.
 
 Research Interests
 ======
@@ -24,6 +24,8 @@ Research Interests
 
 News
 ======
+- 2026/07, A collaboration paper on global river attributes went out at ESSD, [GRIT-ADB](https://doi.org/10.5194/essd-2026-279).
+- 2026/05, A collaboration paper on river channel changes and global flood risk went online at [Communications Earth & Environment] (https://doi.org/10.1038/s43247-026-03517-9).
 - 2026/02, A colloboration paper with Scientists from University of California Santa Barbara “Global Hydroclimatic Controls on Multithread River Dynamics” is accepted at _AGU Advances_.
 - 2026/01, I am honoured to be selected as the 2026 [Judith McKenzie Fellow by ETH, Zurich](https://eaps.ethz.ch/en/news/archive/2026/01/congratulations-to-the-judith-mckenzie-fellows.html). 
 
