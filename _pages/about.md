@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hey, Welcome to my personal website!"
+title: "Welcome! I’m Yinxue Liu."
 author_profile: true
 redirect_from: 
   - /about/
