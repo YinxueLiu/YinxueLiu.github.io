@@ -5,6 +5,8 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+  - /home/
+  - /home.html
 ---
 
 I am a computational hydrogeomorphologist. My research focuses on advancing process understanding of flood generation and improving quantitative estimates of flood extremes using big data and artificial intelligence. 
