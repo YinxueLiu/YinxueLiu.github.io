@@ -11,7 +11,7 @@ I am a computational hydrogeomorphologist. My research focuses on advancing proc
 
 I am currently a Vice-Chancellor Independent Research Fellow at _Loughborough University_, _UK_, and an Associate Member of the _School of Geography and the Environment_, _University of Oxford_. 
 
-I hold a PhD in Physical Geography from the _University of Bristol_. Prior to my current role, I was a Research Associate on the NERC large grant [EvoFlood project](https://www.evoflood.co.uk/) based at the _University of Oxford_ (2022-2024) and _Loughborough University_ (2025), which investigated the evolution of global flood hazards and risks.
+I hold a PhD in Physical Geography from the _University of Bristol_. Prior to my current role, I was a Research Associate on the NERC large grant [EvoFlood project](https://www.evoflood.co.uk/) based at the _University of Oxford_ (2022-2024) and _Loughborough University_ (2025-), which investigated the evolution of global flood hazards and risks.
 
 Research Interests
 ======
