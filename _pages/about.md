@@ -32,6 +32,7 @@ News
 
 Publications
 ======
+{% include publication-list.md %}
 - **Liu, Y.**, Wortmann M., et al. (2026). Global Estimation of River Bankfull Discharge Reveals Distinct Flood Recurrences Across Different Climate Zones. [Nature Communications(accepted)](https://doi.org/10.21203/rs.3.rs-5185659/v1) <br>
 - Zhang B., Wortmann M., **Liu Y.**, et al. (2026). GRIT-ADB: A Global Attribute Database for the GRIT Hydrography. [Earth System Science Data (preprint)](https://doi.org/10.5194/egusphere-egu26-13662) <br>
 - **Liu, Y.**, Bates, P. D., Neal, J. C., et al. (2025). A Bare-earth GoogleDEM to Simulate Flooding in New Delhi, India. [Water Resources Research](https://doi.org/10.1029/2024WR038577) <br>
