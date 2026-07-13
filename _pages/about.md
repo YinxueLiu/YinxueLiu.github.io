@@ -24,16 +24,21 @@ Research Interests
 
 News
 ======
-- 2026/07, A collaboration paper on global river attributes went out at ESSD, [GRIT-ADB](https://doi.org/10.5194/essd-2026-279).
-- 2026/05, A collaboration paper on river channel changes and global flood risk went online at [Communications Earth & Environment](https://doi.org/10.1038/s43247-026-03517-9).
-- 2026/02, A colloboration paper with Scientists from University of California Santa Barbara “Global Hydroclimatic Controls on Multithread River Dynamics” is accepted at _AGU Advances_.
+- 2026/07, GRIT-ADB, our global river attributes database, is out in [Earth System Science Data](https://doi.org/10.5194/essd-2026-279).
+- 2026/05, Co-convened the EGU26 session on Interactions between flooding and hydro-geomorphological processes in Vienna.
+- 2026/05, Our study in [Communications Earth & Environment](https://doi.org/10.1038/s43247-026-03517-9) shows how changing river channels reshape flood risk worldwide.
+- 2026/02, What controls where rivers braid and split? Our [paper](https://doi.org/10.1029/2025AV002166) with UC Santa Barbara colleagues, accepted at _AGU Advances_, links multithread river dynamics to global hydroclimate.
 - 2026/01, I am honoured to be selected as the 2026 [Judith McKenzie Fellow by ETH, Zurich](https://eaps.ethz.ch/en/news/archive/2026/01/congratulations-to-the-judith-mckenzie-fellows.html). 
 
 Publications
 ======
+- **Liu, Y.**, Wortmann M., et al. (2026). Global Estimation of River Bankfull Discharge Reveals Distinct Flood Recurrences Across Different Climate Zones. [Nature Communications(accepted)](https://doi.org/10.21203/rs.3.rs-5185659/v1) <br>
+- Zhang B., Wortmann M., **Liu Y.**, et al. (2026). GRIT-ADB: A Global Attribute Database for the GRIT Hydrography. [Earth System Science Data (preprint)](https://doi.org/10.5194/egusphere-egu26-13662) <br>
 - **Liu, Y.**, Bates, P. D., Neal, J. C., et al. (2025). A Bare-earth GoogleDEM to Simulate Flooding in New Delhi, India. [Water Resources Research](https://doi.org/10.1029/2024WR038577) <br>
 - Wortmann M., Slater L., Hawker L., **Liu Y.**, et al. (2025). Global River Topology (GRIT): A bifurcating river hydrography. [Water Resources Research](https://doi.org/10.1029/2024WR038308) <br>
 - Guan Y., Gu X., …, **Liu Y.** et al. (2025). Excess water availability in northern mid-high latitudes contiguously migrated from ocean under climate change. [Science Advances](https://doi.org/10.1126/sciadv.adv0282) <br>
+- Hawker L., Darby S., …, **Liu Y.**, et al. (2026). River Channel Change Can Affect Flood Hazard and Risk as Much as Climate. [Communications Earth & Environment](https://doi.org/10.1038/s43247-026-03517-9) <br>
+- Zhao, F., Ganti, V., …, **Liu, Y.**, Slater, L., & Foufoula-Georgiou, E. (2026). Global hydroclimatic controls on multi-thread channel dynamics. [AGU Advances](https://doi.org/10.1029/2025AV002166) <br>
 - Slater, L., …, **Liu, Y.**, et al. (2025). Challenges and opportunities of ML and explainable AI in large-sample hydrology. [Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences](https://doi.org/10.1098/rsta.2024.0287) <br>
 - Gebrechorkos, S. H., Leyland, J., …, **Liu Y.**, & Darby, S. E. (2024). Global-scale evaluation of precipitation datasets for hydrological modelling. [Hydrology and Earth System Sciences Discussions](https://doi.org/10.5194/hess-28-3099-2024) <br>
 - **Liu, Y.**, Bates, P. D., Neal, J. C. (2022). Bare-earth DEM Generation from ArcticDEM, and Its Use in Flood Simulation. [Natural Hazards and Earth System Sciences](https://doi.org/10.5194/nhess-23-375-2023) <br>
@@ -44,6 +49,12 @@ Publications
 
 Talks
 ======
+### EGU26
+Vienna, Austria· 2026 <br> 
+Controls on river flood generation: implications for flood quantile estimations.
+
+---
+
 ### Hydro-JULES: Land and Water in a Changing Climate  
 Royal Society, London, UK · 2025 <br> 
 Improving the understanding of global river floods using machine learning.
