@@ -24,11 +24,7 @@ Research Interests
 
 News
 ======
-- 2026/07, GRIT-ADB, our global river attributes database, is out in [Earth System Science Data](https://doi.org/10.5194/essd-2026-279).
-- 2026/05, Co-convened the EGU26 session on Interactions between flooding and hydro-geomorphological processes in Vienna.
-- 2026/05, Our study in [Communications Earth & Environment](https://doi.org/10.1038/s43247-026-03517-9) shows how changing river channels reshape flood risk worldwide.
-- 2026/02, What controls where rivers braid and split? Our [paper](https://doi.org/10.1029/2025AV002166) with UC Santa Barbara colleagues, accepted at _AGU Advances_, links multithread river dynamics to global hydroclimate.
-- 2026/01, I am honoured to be selected as the 2026 [Judith McKenzie Fellow by ETH, Zurich](https://eaps.ethz.ch/en/news/archive/2026/01/congratulations-to-the-judith-mckenzie-fellows.html). 
+{% include news_list.md %}
 
 Publications
 ======
