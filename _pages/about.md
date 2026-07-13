@@ -15,6 +15,8 @@ I am currently a Vice-Chancellor Independent Research Fellow at _Loughborough Un
 
 I hold a PhD in Physical Geography from the _University of Bristol_, supervised by Professor Paul Bates and Professor Jeff Neal. Prior to my current role, I was a Research Associate on the NERC large grant [EvoFlood project](https://www.evoflood.co.uk/) based at the _University of Oxford_ (2022-2024, PI Professor Louise Slater) and _Loughborough University_ (2025, PI Professor Dan Parsons), which investigated the evolution of global flood hazards and risks.
 
+{% include research.md %}
+
 Research Interests
 ======
 
