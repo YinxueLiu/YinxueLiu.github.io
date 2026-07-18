@@ -151,11 +151,12 @@
     display: block;
     width: auto;
     height: auto;
+    margin-bottom: 20px;
   }
 
   img {
     max-width: 300px;
-    border-radius: 50%;
+    border-radius: 20px;
 
     @include breakpoint($large) {
       padding: 5px;
